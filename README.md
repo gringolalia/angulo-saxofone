@@ -1,6 +1,15 @@
-# AcutelyObtuse
+# Angulo Saxofone
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.1.
+Este projeto foi gerado pelo  [Angular CLI](https://github.com/angular/angular-cli) version 8.1.1.
+
+Compile-o e dispunha-o com
+
+```
+ng build --prod --output-path docs --base-href /angulo-saxofone/
+```
+Agora na página do repo sob o cabeçalho Settings perto do fundo da página você verá «GitHub Pages». Na lista suspensa escolhe o `master branch /docs folder`.
+
+Depois de refrescar a página volte lá e verás o «link». Agora paciência. Pode demorar uns poucos minutos. Más deve aparecer após isso.
 
 ## Development server
 
